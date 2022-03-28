@@ -3,7 +3,7 @@
 
 <p align="center">I am a <b>final year</b> undergraduate from <b>UIN Syarif Hidayatullah</b> majoring in <b>Informatics Engineering</b>. I love to learn <b>Web Development</b> especially <b>Front-End Web Development</b>.  Aside of my hard skills, I'd love to develop my soft skills by being involved in several organizations. </p>
 
-<p align="center"><br/>
+<p align="center">
   <a href="https://www.linkedin.com/in/hendrieramdhani/">
     <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" alt="linkedin" width="40px">
   </a>
@@ -19,6 +19,7 @@
  </p>
  
  <h2>Language & Tools
+  <br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="react" width="30px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" alt="nextjs" width="30px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" alt="redux" width="30px">
