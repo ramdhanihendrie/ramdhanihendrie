@@ -46,9 +46,9 @@
 ---
 
   <h2>Github stats</h2>
-
-  <div>
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ramdhanihendrie&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  </div>
   
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ramdhanihendrie&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="stats1" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ramdhanihendrie&theme=react&count_private=true" alt="stats2" />
 </div>
+ 
