@@ -5,8 +5,7 @@
 
   <p>I am a <b>final year</b> undergraduate from <b>UIN Syarif Hidayatullah</b> majoring in <b>Informatics Engineering</b>. I love to learn <b>Web Development</b> especially <b>Front-End Web Development</b>.  Aside of my hard skills, I'd love to develop my soft skills by being involved in several organizations. </p>
 
-
-
+  <br>
   <div>
     <a href="https://www.linkedin.com/in/hendrieramdhani/">
       <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" alt="linkedin" width="40px">
@@ -48,7 +47,7 @@
   <h2>Github stats</h2>
   
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ramdhanihendrie&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="stats1" />
-  
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=ramdhanihendrie&theme=react&count_private=true" alt="stats2" />
 </div>
  
