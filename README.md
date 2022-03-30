@@ -47,7 +47,9 @@
   <h2>Github stats</h2>
   
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ramdhanihendrie&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="stats" />
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=ramdhanihendrie&theme=react-dark" alt="contribution graph" />
+  <br><br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=ramdhanihendrie&theme=react-dark&hide_border=true" alt="contribution graph" />
+  
+---
 </div>
  
