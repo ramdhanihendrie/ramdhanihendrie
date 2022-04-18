@@ -7,6 +7,9 @@
 
   <br>
   <div>
+    <a href="https://hendrieramdhani.vercel.app/">
+      <img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/globe-256.png" alt="web globe" width="40px">
+    </a>
     <a href="https://www.linkedin.com/in/hendrieramdhani/">
       <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" alt="linkedin" width="40px">
     </a>
