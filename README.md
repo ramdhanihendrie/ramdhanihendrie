@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Hi, I'm Hendrie Ramdhani <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"></h1>
+  <h1>Hi, I'm Hendrie Ramdhani <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
   <h3>Front-End Web Developer | Software Engineer | Student</h3>
 
   <p>I am a <b>final year</b> undergraduate from <b>UIN Syarif Hidayatullah</b> majoring in <b>Informatics Engineering</b>. I love to learn <b>Web Development</b> especially <b>Front-End Web Development</b>.  Aside of my hard skills, I'd love to develop my soft skills by being involved in several organizations. </p>
