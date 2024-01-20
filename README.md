@@ -7,7 +7,7 @@
 
   <br>
   <div>
-    <a href="https://hendrieramdhani.vercel.app/">
+    <a href="https://www.hendrieramdhani.my.id/">
       <img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/globe-256.png" alt="web globe" width="40px">
     </a>
     <a href="https://www.linkedin.com/in/hendrieramdhani/">
@@ -51,7 +51,6 @@
   
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ramdhanihendrie&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="stats" />
   <br><br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ramdhanihendrie&theme=react-dark&hide_border=true" alt="contribution graph" />
   
 ---
 
